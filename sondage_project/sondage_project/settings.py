@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-rq0flb&#cj-g5ltm)ngp__7xa5787@#myv!%!@78_0di($#o62
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'sondage.fr']
 
 
 # Application definition
