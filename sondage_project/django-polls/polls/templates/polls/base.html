@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head>
+        <meta charset="utf-8">
+        {% block title %}<title>Sondage application</title>{% endblock %}
+        <link rel="stylesheet" type="text/css" href="{% static 'polls/styles.css' %}">
+    </head>
+    <body>
+        {% block contents %}{% endblock %}
+    </body>
+</html>

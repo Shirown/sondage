@@ -1,6 +1,5 @@
 env/
 .git
-sondage_project/sondage_project/__pycache__
-sondage_project/polls/__pycache__
-sondage_project/polls/migrations
+**/__pycache__
+**/migrations
 **/images/*
